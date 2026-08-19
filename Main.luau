@@ -1,3 +1,4 @@
+warn("LOADING F3X!!!")
 if game.Players.LocalPlayer.PlayerGui:FindFirstChild("Building Tools by F3X (UI)") then
    warn("F3X is Already Running!!!")
    return false
@@ -1908,4 +1909,4 @@ end)
 
 
 print("Loaded Building Tools 2.0")
-channel:SendAsync("Loaded F3X")
+--channel:SendAsync("Loaded F3X")
