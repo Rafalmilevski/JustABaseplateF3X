@@ -1,4 +1,3 @@
-warn("LOADING F3X!!!")
 if game.Players.LocalPlayer.PlayerGui:FindFirstChild("Building Tools by F3X (UI)") then
    warn("F3X is Already Running!!!")
    return false
